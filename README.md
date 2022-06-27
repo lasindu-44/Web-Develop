@@ -1,1 +1,1 @@
-This is the sea side south park front end design project.
+This is the "sea side south park" website front end design.
